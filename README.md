@@ -19,4 +19,4 @@
   - output_10: ALNS without insertion operator (I4)
   - output_11: ALNS without insertion operator (I5)
   - output_12: ALNS without insertion operator (I6)
-  - output_13: ALNS without local search (I6)
+  - output_13: ALNS without local search (LS)
