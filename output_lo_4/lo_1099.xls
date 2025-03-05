@@ -1,0 +1,2 @@
+obj	lower_bound	gap	runtime	total_production_cost	total_service_time	nvar	ncontr	mach	job_rate	fam	pre_factor	
+25072	24978	0.0037492	600.212	5542	19530	26141	18842	8	5	5	2
