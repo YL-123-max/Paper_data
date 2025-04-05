@@ -1,2 +1,2 @@
 UB,LB,gap(%),InitObj,RootLB,gap_lb(%),AlphaSumServiceTime,SumProductionCost,NumNodes,AllColumn,RootColumn,DynamicColumn,HeuristicColumn,AllTime,RootTime,Mach,Job_rate,Fam,pre_factor
-38417,38417,0,38646,38411,0.608084,20279,18138,5,83320,7227,82582,14004,73.9383,4.07638,10,8,8,1
+38417,38417,0,38646,38411,0.608084,20279,18138,5,83320,7227,68578,14004,73.9383,4.07638,10,8,8,1
